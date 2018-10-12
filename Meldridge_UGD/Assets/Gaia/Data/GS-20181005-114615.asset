@@ -116,3 +116,96 @@ MonoBehaviour:
       Purple","m_useExtendedSpawn":false,"m_minViableFitness":0.400000005960464,"m_failureRate":0.300000011920929,"m_maxInstances":4194304,"m_ignoreMaxInstances":true,"m_minDirection":0.0,"m_maxDirection":359.899993896484,"m_resourceType":"TerrainDetail","m_resourceIdx":5,"m_noiseMask":"Perlin","m_noiseMaskSeed":13390.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":2.0,"m_noiseZoom":30.0,"m_noiseStrength":1.5,"m_noiseInvert":false,"m_isActive":true,"m_isFoldedOut":false,"m_currInstanceCnt":0,"m_activeInstanceCnt":0,"m_inactiveInstanceCnt":0},{"m_name":"Flowers
       Red","m_useExtendedSpawn":false,"m_minViableFitness":0.5,"m_failureRate":0.899999976158142,"m_maxInstances":4194304,"m_ignoreMaxInstances":true,"m_minDirection":0.0,"m_maxDirection":359.899993896484,"m_resourceType":"TerrainDetail","m_resourceIdx":6,"m_noiseMask":"Perlin","m_noiseMaskSeed":6886.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":90.0,"m_noiseStrength":1.0,"m_noiseInvert":false,"m_isActive":true,"m_isFoldedOut":false,"m_currInstanceCnt":0,"m_activeInstanceCnt":0,"m_inactiveInstanceCnt":0}],"m_spawnCollisionLayers":{"value":1},"m_spawnColliderLayer":0,"m_showGizmos":true,"m_showDebug":false,"m_showStatistics":true,"m_showTerrainHelper":true,"m_rndGenerator":{"m_seed":982,"m_stateA":178088646,"m_stateB":6874},"m_treeCache":{},"m_totalRuleCnt":7,"m_activeRuleCnt":7,"m_inactiveRuleCnt":0,"m_maxInstanceCnt":29360128,"m_activeInstanceCnt":0,"m_inactiveInstanceCnt":0,"m_totalInstanceCnt":0,"m_updateCoroutine":null,"m_updateTimeAllowed":0.0333333350718021,"m_spawnProgress":0.0,"m_spawnComplete":false,"m_spawnerBounds":{"center":{"x":0.0,"y":114.539459228516,"z":0.0},"size":{"x":2048.0,"y":2048.0,"z":2048.0}}}'
     m_isFoldedOut: 0
+  - m_description: Stamping Mesa 11
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/12/2018 11:42:16
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Mesa
+      11","path":"Assets/Gaia/Stamps/Mesas/Mesa 11.jpg","width":1024,"height":1024},"m_x":-790.0,"m_y":224.0,"m_z":-102.0,"m_width":9.10000038146973,"m_height":8.19999980926514,"m_rotation":216.999984741211,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.0482795462012291,"m_drawStampBase":true,"m_stampOperation":"RaiseHeight","m_smoothIterations":0,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
+  - m_description: Stamping Utah Plains
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/12/2018 11:47:23
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Utah
+      Plains","path":"Assets/Gaia/Stamps/Plains/Utah Plains.jpg","width":1024,"height":1024},"m_x":-191.0,"m_y":195.0,"m_z":-669.0,"m_width":6.19999980926514,"m_height":6.40000009536743,"m_rotation":273.0,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.0700000002980232,"m_drawStampBase":true,"m_stampOperation":"RaiseHeight","m_smoothIterations":0,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
+  - m_description: Stamping Utah Plains
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/12/2018 11:47:47
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Utah
+      Plains","path":"Assets/Gaia/Stamps/Plains/Utah Plains.jpg","width":1024,"height":1024},"m_x":521.0,"m_y":204.0,"m_z":-704.0,"m_width":6.19999980926514,"m_height":6.40000009536743,"m_rotation":180.0,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.0700000002980232,"m_drawStampBase":true,"m_stampOperation":"DifferenceHeight","m_smoothIterations":0,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
+  - m_description: Stamping Utah Plains
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/12/2018 11:48:18
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Utah
+      Plains","path":"Assets/Gaia/Stamps/Plains/Utah Plains.jpg","width":1024,"height":1024},"m_x":694.0,"m_y":206.0,"m_z":-672.0,"m_width":6.19999980926514,"m_height":6.40000009536743,"m_rotation":180.0,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.0700000002980232,"m_drawStampBase":true,"m_stampOperation":"RaiseHeight","m_smoothIterations":0,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
+  - m_description: Stamping Utah Plains
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/12/2018 11:51:27
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Utah
+      Plains","path":"Assets/Gaia/Stamps/Plains/Utah Plains.jpg","width":1024,"height":1024},"m_x":574.0,"m_y":168.0,"m_z":28.0,"m_width":8.39999961853027,"m_height":5.59999990463257,"m_rotation":270.150207519531,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.0700000002980232,"m_drawStampBase":true,"m_stampOperation":"BlendHeight","m_smoothIterations":0,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
+  - m_description: Stamping Utah Plains
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/12/2018 11:52:38
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Utah
+      Plains","path":"Assets/Gaia/Stamps/Plains/Utah Plains.jpg","width":1024,"height":1024},"m_x":722.0,"m_y":184.0,"m_z":-341.0,"m_width":5.5,"m_height":5.59999990463257,"m_rotation":180.0,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.0700000002980232,"m_drawStampBase":true,"m_stampOperation":"BlendHeight","m_smoothIterations":0,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
+  - m_description: Stamping Utah Plains
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/12/2018 11:53:04
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Utah
+      Plains","path":"Assets/Gaia/Stamps/Plains/Utah Plains.jpg","width":1024,"height":1024},"m_x":696.0,"m_y":406.0,"m_z":562.0,"m_width":5.5,"m_height":16.7000007629395,"m_rotation":180.0,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.0700000002980232,"m_drawStampBase":true,"m_stampOperation":"BlendHeight","m_smoothIterations":0,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
+  - m_description: Undoing stamp
+    m_operationType: 6
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/12/2018 11:53:14
+    m_operationDataJson: []
+    m_isFoldedOut: 0
