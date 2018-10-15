@@ -325,3 +325,72 @@ MonoBehaviour:
     - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Mountain_1809_1","path":"Assets/Gaia/Stamps/Mountains/Mountain_1809_1.jpg","width":1024,"height":1024},"m_x":-527.0,"m_y":155.0,"m_z":-401.0,"m_width":7.19999980926514,"m_height":4.0,"m_rotation":29.0000038146973,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
       NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.093202106654644,"m_drawStampBase":true,"m_stampOperation":"BlendHeight","m_smoothIterations":5,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
     m_isFoldedOut: 0
+  - m_description: Stamping Hills 13
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/15/2018 11:23:31
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Hills
+      13","path":"Assets/Gaia/Stamps/Hills/Hills 13.jpg","width":1024,"height":1024},"m_x":-896.0,"m_y":651.0,"m_z":-792.0,"m_width":6.0,"m_height":25.6000003814697,"m_rotation":58.0000076293945,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.0347905717790127,"m_drawStampBase":true,"m_stampOperation":"RaiseHeight","m_smoothIterations":5,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
+  - m_description: Stamping Hills 13
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/15/2018 11:23:50
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Hills
+      13","path":"Assets/Gaia/Stamps/Hills/Hills 13.jpg","width":1024,"height":1024},"m_x":-698.0,"m_y":651.0,"m_z":-876.0,"m_width":6.0,"m_height":25.6000003814697,"m_rotation":31.0000019073486,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.0347905717790127,"m_drawStampBase":true,"m_stampOperation":"RaiseHeight","m_smoothIterations":5,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
+  - m_description: Stamping Hills 13
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/15/2018 11:25:03
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Hills
+      13","path":"Assets/Gaia/Stamps/Hills/Hills 13.jpg","width":1024,"height":1024},"m_x":-447.0,"m_y":651.0,"m_z":-1029.0,"m_width":6.0,"m_height":25.6000003814697,"m_rotation":306.0,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.0347905717790127,"m_drawStampBase":true,"m_stampOperation":"RaiseHeight","m_smoothIterations":5,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
+  - m_description: Stamping Crater 0924 a
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/15/2018 12:38:49
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Crater
+      0924 a","path":"Assets/Gaia/Stamps/Mountains/Crater 0924 a.jpg","width":1024,"height":1024},"m_x":-713.0,"m_y":182.0,"m_z":-142.0,"m_width":3.0,"m_height":6.0,"m_rotation":104.000007629395,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":false,"m_normaliseStamp":false,"m_baseLevel":0.0410000011324883,"m_drawStampBase":true,"m_stampOperation":"LowerHeight","m_smoothIterations":5,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
+  - m_description: Undoing stamp
+    m_operationType: 6
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/15/2018 12:39:02
+    m_operationDataJson: []
+    m_isFoldedOut: 0
+  - m_description: Stamping Crater 0924 a
+    m_operationType: 5
+    m_isActive: 1
+    m_generatedByName: Stamper
+    m_generatedByID: 2f9fc648-80a3-4da6-a518-c16529f45723
+    m_generatedByType: Gaia.Stamper
+    m_operationDateTime: 10/15/2018 12:40:25
+    m_operationDataJson:
+    - '{"m_stampID":"2f9fc648-80a3-4da6-a518-c16529f45723","m_stampPreviewImage":{"present":true,"name":"Crater
+      0924 a","path":"Assets/Gaia/Stamps/Mountains/Crater 0924 a.jpg","width":1024,"height":1024},"m_x":-700.0,"m_y":-69.0,"m_z":-129.0,"m_width":3.0,"m_height":6.0,"m_rotation":86.9999923706055,"m_stickBaseToGround":false,"m_resourcesPath":"Assets/Gaia/Data/GR
+      NatureManufacture.asset","m_invertStamp":true,"m_normaliseStamp":false,"m_baseLevel":0.0410000011324883,"m_drawStampBase":true,"m_stampOperation":"BlendHeight","m_smoothIterations":5,"m_blendStrength":0.5,"m_stencilHeight":1.0,"m_heightModifier":{"keys":[{"time":0.0,"value":0.0,"inTangent":0.0,"outTangent":1.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":1.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_distanceMask":{"keys":[{"time":0.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0},{"time":1.0,"value":1.0,"inTangent":0.0,"outTangent":0.0,"weightedMode":"None","inWeight":0.0,"outWeight":0.0}],"preWrapMode":"ClampForever","postWrapMode":"ClampForever"},"m_areaMaskMode":"None","m_imageMask":{"present":false},"m_imageMaskInvert":false,"m_imageMaskNormalise":false,"m_imageMaskFlip":false,"m_imageMaskSmoothIterations":3,"m_noiseMaskSeed":0.0,"m_noiseMaskOctaves":8,"m_noiseMaskPersistence":0.25,"m_noiseMaskFrequency":1.0,"m_noiseMaskLacunarity":1.5,"m_noiseZoom":10.0,"m_alwaysShow":false,"m_showBase":true,"m_showSeaLevel":true,"m_showRulers":false,"m_showTerrainHelper":false}'
+    m_isFoldedOut: 0
